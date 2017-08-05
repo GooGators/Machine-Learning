@@ -1,9 +1,9 @@
-#Purpose
+# Purpose
 The purpose of this project is to explore some techniques in supervised learning. It is important to realize that understanding an algorithm or technique requires understanding how it behaves under a variety of circumstances. 
 # Analysis 
   * Located at Supervised Learning Analysis.pdf
 
-#Implementing Five Learning Algorithms:
+# Implementing Five Learning Algorithms:
 
   * Decision trees with some form of pruning
   * Neural networks
@@ -11,11 +11,11 @@ The purpose of this project is to explore some techniques in supervised learning
   * Support Vector Machines - two kernel functions
   * k-nearest neighbors
 
-#Testing
+# Testing
   * Design two interesting classification problems. 
   * Training and testing error rates
 
-#Requirements
+# Requirements
   * Python 2.7
   * Sklearn
   * matplotlib
@@ -37,8 +37,8 @@ The purpose of this project is to explore some techniques in supervised learning
 # SVM
   * To run SVM, for the diabetes set run svmDia.py, for Spambase run svmSpam.py
 
-#KNN
+# KNN
   * To run KNN, for the diabetes set run knnDia.py, for Spambase run knnSpam.py
 
-#Neural Networks
+# Neural Networks
   * To run the neural networks, for the diabetes set run kerasDia.py, for Spambase run kerasSpam.py
